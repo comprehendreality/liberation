@@ -1,0 +1,26 @@
+{
+	"name": "liberation",
+	"domains": [
+		"otisclark.com",
+		"www.otisclark.com"
+	],
+	"version": "0.0.0-6",
+	"private": true,
+	"scripts": {
+		"start": "node ./bin/www"
+	},
+	"dependencies": {
+		"body-parser": "~1.6.6",
+		"bower": "^1.3.9",
+		"cookie-parser": "~1.3.2",
+		"debug": "~1.0.4",
+		"express": "~4.8.6",
+		"jade": "~1.5.0",
+		"morgan": "~1.2.3",
+		"serve-favicon": "~2.0.1"
+	},
+	"subdomain": "comprehendreality-liberation",
+	"engines": {
+		"node": "0.10.x"
+	}
+}

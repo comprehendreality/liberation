@@ -1,0 +1,27 @@
+{
+  "name": "liberation",
+  "version": "0.0.0",
+  "description": "liberate the mind liberate the people",
+  "main": "./bin/www",
+  "keywords": [
+    "liberate",
+    "the",
+    "game"
+  ],
+  "authors": [
+    "comprehendreality drunkinabbot jabilac"
+  ],
+  "license": "closed",
+  "homepage": "www.otisclark.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.0.7"
+  }
+}
